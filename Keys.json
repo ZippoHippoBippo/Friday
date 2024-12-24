@@ -1,9 +1,9 @@
 {
     "Keys": [
     {
-        "OpenAI": "",
-        "PicoVoice": "",
-        "Weather": ""
+        "OpenAI": "[openai key here",
+        "PicoVoice": "[picovoice key here]",
+        "Weather": "[Weather API key here]"
     }
     ]
 }
