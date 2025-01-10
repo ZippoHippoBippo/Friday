@@ -1,0 +1,12 @@
+{
+    "OpenAI": [
+        "API-Key": "123456789",
+        "GPT-Model": "GPT-4o-mini"
+    ]
+    "Weather": [
+        "API-Key": "123456789",
+        "Location": "AB123CD"
+    ]
+    "Picovoice": [
+        "API-Key": "123456789"
+}
